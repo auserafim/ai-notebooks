@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+tensorflow
+torch
+torchvision
+transformers
+xgboost
+lightgbm
+plotly
+seaborn
+unidecode 
+openpyxl
+

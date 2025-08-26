@@ -14,4 +14,6 @@ plotly
 seaborn
 unidecode 
 openpyxl
-
+xgboost
+lightgbm
+catboost

@@ -8,7 +8,6 @@ tensorflow
 torch
 torchvision
 transformers
-xgboost
 lightgbm
 plotly
 seaborn

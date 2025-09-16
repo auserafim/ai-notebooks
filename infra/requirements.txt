@@ -16,3 +16,4 @@ openpyxl
 xgboost
 lightgbm
 catboost
+pycaret

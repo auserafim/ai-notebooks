@@ -4,10 +4,6 @@ scikit-learn
 scipy
 matplotlib
 seaborn
-tensorflow
-torch
-torchvision
-transformers
 lightgbm
 plotly
 seaborn

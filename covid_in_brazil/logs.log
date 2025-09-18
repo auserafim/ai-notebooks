@@ -11736,3 +11736,81 @@ ValueError: could not convert string to float: 'CE'
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2025-09-17 23:56:09,291:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:09:23,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:09:23,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:09:23,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:09:23,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:31:05,154:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:31:05,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:31:05,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 00:31:05,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 11:19:13,759:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 11:19:13,759:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 11:19:13,759:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 11:19:13,759:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 14:26:03,898:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:26:32,158:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:26:55,733:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:27:11,901:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:27:13,388:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:27:14,646:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:27:15,922:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 14:27:17,272:WARNING:/usr/local/lib/python3.11/site-packages/lightgbm/basic.py:2137: UserWarning: categorical_feature keyword has been found in `params` and will be ignored.
+Please use categorical_feature argument of the Dataset constructor to pass this parameter.
+  _log_warning(
+
+2025-09-18 15:29:13,205:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 15:29:13,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 15:29:13,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 15:29:13,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-18 15:31:15,400:WARNING:/tmp/ipykernel_4463/2670207599.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_no_nulls['total_chronic_cormodity'] = ((df_no_nulls[["OBESIDADE",
+
+2025-09-18 15:31:15,428:WARNING:/tmp/ipykernel_4463/2670207599.py:10: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_no_nulls['total_temporary_cormodity'] = (df_no_nulls[["FEBRE",
+

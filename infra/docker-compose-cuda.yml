@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: ml_notebooks_cuda
+    environment:
+      - JUPYTER_TOKEN=123
+    build:
+      context: ..
+      dockerfile: infra/cuda.Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ..:/app
+    deploy: {}
+    gpus: all
